@@ -1,0 +1,16 @@
+4K textures - "25th Anniversary Remaster" by andrew22
+=====================================================
+
+The MaxPayneVR-4K-Textures-part*.zip downloads contain the "25th Anniversary Remaster"
+texture pack by andrew22, a complete 4x remaster of the game's textures:
+  https://www.nexusmods.com/maxpayne/mods/45
+
+They are included in this release with andrew22's permission. All credit for the
+textures goes to andrew22. They remain his work; this permission covers their use
+with Max Payne VR only. Please don't extract or redistribute them separately - get
+the pack itself from the Nexus Mods page above.
+
+Left out of this release: the pack's weapon sounds and its globalconfig.txt.
+
+The installer keeps the textures in the game's mp1vr_hd folder. They are on by
+default; Options > VR Settings > 4K Textures switches them off (restart the game).

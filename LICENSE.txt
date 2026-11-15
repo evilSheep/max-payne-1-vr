@@ -1,0 +1,36 @@
+Max Payne 1 VR — original mod components
+Copyright (c) 2026 evilSheep. All rights reserved.
+
+Permission is granted to use this mod and to copy and redistribute its complete,
+unmodified official release packages free of charge, retaining this notice and
+all accompanying third-party notices. This permission does not grant rights to
+Max Payne, its assets, trademarks, the 4K textures, or any other third-party
+material. The VR runtime development source is not included. The accompanying
+original installer scripts are supplied for installation use under this same
+permission. Separately licensed components retain their own terms.
+
+THE ORIGINAL MOD COMPONENTS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. TO THE EXTENT PERMITTED BY APPLICABLE
+LAW, THE AUTHOR IS NOT LIABLE FOR CLAIMS OR DAMAGES ARISING FROM THEIR USE.
+
+# Third-party notices
+
+The mod uses licensed third-party code and assets. Complete notices are included in `licenses/`.
+
+| Component | Use | Notice |
+| --- | --- | --- |
+| MinHook, Tsuda Kageyu | Runtime hooks | [BSD-2-Clause](licenses/MinHook_LICENSE.txt) |
+| OpenVR, Valve | SteamVR API headers; the runtime is installed separately | [BSD-3-Clause](licenses/OpenVR.txt) |
+| d3d8to9, Patrick Mours | D3D8-to-D3D9 wrapper (`d3d8.dll`), including original Max Payne VR integration changes | [BSD-2-Clause](licenses/d3d8to9_LICENSE.md) |
+| maxpaynevr_triggers, Bnuuy Solutions | Optional PSVR2 adaptive-trigger helper; PSVR2 Toolkit not bundled | [MIT](licenses/maxpaynevr_triggers_LICENSE.txt) |
+| "25th Anniversary Remaster", andrew22 | The 4K textures, included with his permission; not redistributable on their own | [Credit and terms](licenses/4K-Textures.txt) |
+| "Low Poly Skeleton For Maya", 606tom | Gore's inner skeleton, modified and compiled into maxpaynevr.asi; not redistributable on its own | [RenderHub Extended Use License](licenses/Gore-assets.txt) |
+| "Human Skull", CDmir | Gore's skull, modified and compiled into maxpaynevr.asi | [CC0](licenses/Gore-assets.txt) |
+
+The installer downloads [Steamless](https://github.com/atom0s/Steamless) (atom0s) from GitHub, checked against a
+fixed SHA-256, to apply the 4 GB patch to your own copy of `maxpayne.exe`. Steamless is not bundled.
+
+The release does not contain Max Payne's executable, libraries or original game files. Third-party licenses govern
+their own components and are unaffected by the original-mod license. They do not grant rights to Max Payne or its
+game data. Names and trademarks remain with their owners; inclusion does not imply endorsement.
