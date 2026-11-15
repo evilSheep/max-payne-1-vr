@@ -51,7 +51,7 @@ Play as Max with tracked hands, physical weapons, manual reloading and bullet-ti
 - A Windows 10/11 gaming PC with SteamVR installed.
 - A PC-connected VR headset and two tracked controllers. Development testing used **PSVR2** and **Quest 3 through
   Virtual Desktop**. This is not a standalone Quest application.
-- About 4 GB of free disk space for the 4K textures.
+- For the optional 4K textures: about 4 GB of free disk space.
 
 PSVR2 adaptive triggers use the optional **PSVR2 Toolkit**, installed separately. Standard controller vibration does
 not require the toolkit.
@@ -62,10 +62,12 @@ Download the files from this repository's **Releases** page. The **Code → Down
 documentation, not the mod.
 
 1. Install the game through Steam, run it once, then close it.
-2. Download `MaxPayneVR-v<version>.zip` and the three `MaxPayneVR-4K-Textures-part*.zip` files into one folder.
+2. Download `MaxPayneVR-v<version>.zip`. For the 4K textures (optional, 3.7 GB), also download the three
+   `MaxPayneVR-4K-Textures-part*.zip` files into the same folder.
 3. Extract `MaxPayneVR-v<version>.zip` there. Leave the texture zips zipped.
 4. Double-click **Install Max Payne VR.cmd** and press **Install**. Wait for it to finish; unpacking the textures can
-   take a few minutes.
+   take a few minutes. Without the texture zips, the 4K textures box is greyed out and the game keeps its original
+   textures.
 5. Start SteamVR, then launch Max Payne from Steam.
 
 Open **Options > VR Settings** in the game to customize the experience. See the [installation guide](INSTALLATION.md)

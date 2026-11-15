@@ -3,13 +3,14 @@
 You need Max Payne from Steam (version 1.05), Windows 10/11, and a headset with controllers connected through SteamVR.
 
 1. Install Max Payne through Steam, run it once, then close it.
-2. From **Releases**, download `MaxPayneVR-v<version>.zip` and the three `MaxPayneVR-4K-Textures-part*.zip` files into
-   one folder.
+2. From **Releases**, download `MaxPayneVR-v<version>.zip`. For the 4K textures (optional, 3.7 GB), also download the
+   three `MaxPayneVR-4K-Textures-part*.zip` files into the same folder.
 3. Extract `MaxPayneVR-v<version>.zip` in that folder. Leave the texture zips as they are; the installer reads them
    from beside the extracted folder.
 4. Double-click **Install Max Payne VR.cmd** and press **Install**. Windows may ask for administrator rights, since the
    game is under Program Files. The installer finds the game through Steam.
-5. Wait for it to finish. Unpacking the textures can take a few minutes.
+5. Wait for it to finish. Unpacking the textures can take a few minutes. Without the texture zips, the
+   **4K textures** box is greyed out and the game keeps its original textures.
 6. Start SteamVR, then launch Max Payne from Steam.
 
 Adjust your preferences in **Options > VR Settings** in the game.
@@ -23,7 +24,7 @@ Adjust your preferences in **Options > VR Settings** in the game.
   need. Steamless is downloaded from GitHub once, checked against a fixed SHA-256. The Steam exe is kept as
   `maxpayne.exe.steamstub`.
 - Adds **VR Settings** to the game's Options menu.
-- Installs the 4K textures into the game's `mp1vr_hd` folder.
+- Installs the 4K textures into the game's `mp1vr_hd` folder, if you downloaded them.
 - Copies starting calibrations for the guns. Any you already have are kept.
 
 The game also needs Microsoft's **DirectX End-User Runtime** (`d3dx9_43.dll`). The installer tells you if it is
@@ -32,7 +33,11 @@ missing and offers Microsoft's download page.
 ## 4K textures
 
 The "25th Anniversary Remaster" textures by andrew22
-([Nexus Mods](https://www.nexusmods.com/maxpayne/mods/45)), included with his permission. They are on by default.
+([Nexus Mods](https://www.nexusmods.com/maxpayne/mods/45)), included with his permission. They are optional: skip
+the three texture zips to play with the original textures. When installed, they are on by default.
+
+To add them later, download the three texture zips into the folder you installed from, run the installer again with
+**4K textures** ticked, and press **Install**.
 
 To use the original textures, turn off **Options > VR Settings > 4K Textures** and restart the game (the switch
 happens when the game starts). Or run the installer again, untick **4K textures** and press **Install**. Either way,
