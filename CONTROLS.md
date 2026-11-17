@@ -39,6 +39,10 @@ free hand and push them into the gun; Y / B | Triangle / Circle opens the sawed-
 With **Automatic Reload** enabled (VR Settings), an empty gun reloads by itself, and the eject button also starts a
 reload. The gun can't fire until the reload finishes.
 
+With **Trigger Ammo Grab** enabled (VR Settings), your free hand's trigger, instead of grip, takes magazines and
+shells from your hip and grabs the slide, pump, bolt or charging handle; let go of the trigger to let go. Support
+grips, holsters and everything else still use grip.
+
 ## Ragdolls
 
 Grip a dead body to pick it up. Hold it in front of you as a shield: it stops enemy bullets. Let go to drop it, or
