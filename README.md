@@ -2,16 +2,13 @@
 
 ☕ Support on Ko-fi: [https://ko-fi.com/evilsheep](https://ko-fi.com/evilsheep)
 
-[Download the beta](https://github.com/evilSheep/max-payne-1-vr/releases)
+[Download v1.0.0](https://github.com/evilSheep/max-payne-1-vr/releases/latest)
 
 [YouTube channel](https://www.youtube.com/@1EvilSheep1)
 
 **A free PC VR mod for the original Max Payne.**
 
 Play as Max with tracked hands, physical weapons, manual reloading and bullet-time combat in VR.
-
-> **This is a beta.** Reports from
-> different headsets and PC setups are what the beta is for - see [Reporting problems](#reporting-problems).
 
 ## Features
 
