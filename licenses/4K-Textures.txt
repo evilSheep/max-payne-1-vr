@@ -13,4 +13,4 @@ the pack itself from the Nexus Mods page above.
 Left out of this release: the pack's weapon sounds and its globalconfig.txt.
 
 The installer keeps the textures in the game's mp1vr_hd folder. They are on by
-default; Options > VR Settings > 4K Textures switches them off (restart the game).
+default; Options > VR Settings > Display & HUD > 4K Textures switches them off (restart the game).

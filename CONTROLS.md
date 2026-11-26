@@ -36,12 +36,24 @@ To reload by hand, eject the magazine with Y / B | Triangle / Circle, then swing
 through either hip to load a new one, and work the slide. For the shotguns, take shells from your hip with your
 free hand and push them into the gun; Y / B | Triangle / Circle opens the sawed-off.
 
-With **Automatic Reload** enabled (VR Settings), an empty gun reloads by itself, and the eject button also starts a
+With **Automatic Reload** enabled (VR Settings > Weapons & Grips), an empty gun reloads by itself, and the eject button also starts a
 reload. The gun can't fire until the reload finishes.
 
-With **Trigger Ammo Grab** enabled (VR Settings), your free hand's trigger, instead of grip, takes magazines and
+With **Trigger Ammo Grab** enabled (VR Settings > Weapons & Grips), your free hand's trigger, instead of grip, takes magazines and
 shells from your hip and grabs the slide, pump, bolt or charging handle; let go of the trigger to let go. Support
 grips, holsters and everything else still use grip.
+
+## Turning
+
+The right stick turns smoothly by default. In **VR Settings > Turning**, choose **Snap Turning** to turn in steps
+(**Snap Turn Angle**: 15, 30, 45 or 90 degrees; centre the stick to turn again), set the **Smooth Turn Speed** (45 to
+360 degrees a second), or turn on **Disable Stick Turning** to turn only with your body.
+
+## Holster vibration
+
+Your controller vibrates when a hand reaches a holster, draws from it or puts a gun in it. Turn that off for the
+chest holsters or the shoulder holster with **Disable Chest Holster Haptics** and **Disable Shoulder Holster Haptics**
+in VR Settings > Weapons & Grips.
 
 ## Ragdolls
 
@@ -52,18 +64,18 @@ let go while moving your hand to throw it.
 
 Right stick up jumps. Right stick down crouches, and you stay crouched after you let go; walk, or push the right
 stick up, to stand. **A | Cross** shoot-dodges when the left stick is pushed, and starts bullet time when it is
-centred. Turn **Stick Actions** off in VR Settings to use the stick clicks instead: left stick click shoot-dodges,
+centred. Turn **Stick Actions** off in VR Settings > Controls to use the stick clicks instead: left stick click shoot-dodges,
 right stick click starts bullet time, and **A | Cross** jumps.
 
 ## Weapon Wheel (optional)
 
-Turn on **Weapon Wheel** in VR Settings. Hold a stick click (with Stick Actions off: both face buttons of one hand,
+Turn on **Weapon Wheel** in VR Settings > Controls. Hold a stick click (with Stick Actions off: both face buttons of one hand,
 **X + Y** or **A + B** | **Square + Triangle** or **Cross + Circle**) and a ring of your guns opens around that hand.
 Move the hand over a gun and release to take it into that hand; release in the middle to cancel.
 
 ## Gore
 
-Bullet wounds, blood and dismemberment are on by default. Turn them off with **Gore** in VR Settings.
+Bullet wounds, blood and dismemberment are on by default. Turn them off with **Gore** in VR Settings > Display & HUD.
 
 ## Gun spinning
 
@@ -73,12 +85,12 @@ Squeeze grip to catch it. Releasing the eject button while it spins lets go of t
 ## Sniper scope
 
 With **Scope Eye Lock** (on by default), bring the scope close to either eye and it stays anchored there; aim with
-your other hand, and pull it away to release. **Sniper Zoom** in VR Settings sets the magnification, from 2x to 10x
+your other hand, and pull it away to release. **Sniper Zoom** in VR Settings > Weapons & Grips sets the magnification, from 2x to 10x
 (3x by default).
 
 ## Controller calibration
 
-If the guns don't sit right in your hands, open **VR Settings > Controller Calibration** and turn on
+If the guns don't sit right in your hands, open **VR Settings > Controls > Controller Calibration** and turn on
 **Calibration Mode**. With a pistol in your right hand, press **A** to freeze it, move your hand onto it, and press
 **A** again to save. Every gun follows, and the left hand is mirrored. **Reset to Default** restores your headset's
 default. PSVR2 keeps its own calibration.

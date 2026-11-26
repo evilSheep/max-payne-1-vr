@@ -2,7 +2,7 @@
 
 ☕ Support on Ko-fi: [https://ko-fi.com/evilsheep](https://ko-fi.com/evilsheep)
 
-[Download v1.0.0](https://github.com/evilSheep/max-payne-1-vr/releases/latest)
+[Download v1.0.1](https://github.com/evilSheep/max-payne-1-vr/releases/latest)
 
 [YouTube channel](https://www.youtube.com/@1EvilSheep1)
 

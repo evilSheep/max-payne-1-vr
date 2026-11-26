@@ -39,13 +39,13 @@ the three texture zips to play with the original textures. When installed, they 
 To add them later, download the three texture zips into the folder you installed from, run the installer again with
 **4K textures** ticked, and press **Install**.
 
-To use the original textures, turn off **Options > VR Settings > 4K Textures** and restart the game (the switch
+To use the original textures, turn off **Options > VR Settings > Display & HUD > 4K Textures** and restart the game (the switch
 happens when the game starts). Or run the installer again, untick **4K textures** and press **Install**. Either way,
 switching back is instant: the pack stays in the `mp1vr_hd` folder.
 
 ## VR resolution
 
-**Options > VR Settings > Display > VR Resolution** sets how many pixels tall each eye renders, from 1440 to 3456;
+**Options > VR Settings > Display & HUD > VR Resolution** sets how many pixels tall each eye renders, from 1440 to 3456;
 the width follows your headset's shape. **Headset Default** uses SteamVR's recommended resolution. Restart the game
 to apply a change.
 
